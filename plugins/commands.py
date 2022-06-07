@@ -360,7 +360,7 @@ async def delete_all_index(bot, message):
 @Client.on_callback_query(filters.regex(r'^autofilter_delete'))
 async def delete_all_index_confirm(bot, message):
     await Media.collection.drop()
-    await message.answer('Piracy Is Crime')
+    await message.answer('Don`t Share Or I Will Ban')
     await message.message.edit('Succesfully Deleted All The Indexed Files.')
 
 
