@@ -7,15 +7,15 @@ class script(object):
 
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/finderv3bot><b>{}</b></a>
 
-✯ 𝙵𝚛𝚒𝚎𝚗𝚍 𝙾𝚏: 𝕲𝖆𝖝𝖎2
+✯ 𝙵𝚛𝚒𝚎𝚗𝚍 𝙾𝚏: <a href=https://t.me/Gaxi7><b>𝕲𝖆𝖝𝖎2</b></a>
 
 ✯ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕: <a href=https://t.me/find_hub><b>𝙵𝚒𝚗𝚍_𝙷𝚞𝚋</b></a>
 
 ✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜: <a href=https://t.me/findhubupdates><b>𝚄𝚙𝚍𝚊𝚝𝚎𝚜</b></a>
 
-✯ 𝙶𝚛𝚘𝚞𝚙: <a href=https://t.me/><b>𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙷𝚎𝚛𝚎</b></a>
+✯ 𝙶𝚛𝚘𝚞𝚙: <a href=https://t.me/f1ndhub><b>𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙷𝚎𝚛𝚎</b></a>
 
 
 𝚃𝙷𝙴𝚁𝙴 𝙸𝚂 𝙽𝙾𝚃𝙷𝙸𝙽𝙶 𝚃𝙾 𝙺𝙽𝙾𝚆 𝙼𝙾𝚁𝙴. (◠‿◕)
