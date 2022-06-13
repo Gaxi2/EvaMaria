@@ -137,7 +137,7 @@ async def advantage_spoll_choker(bot, query):
         else:
             k = await query.message.edit("""This Movie Not Found In DataBase.
              
-            <b>Please make a request in this format: #request Movie_Name, Movie_Year, Movie_Quality and #hindi (for dub)</b>""")
+<b>Please make a request in this format: #request Movie_Name, Movie_Year, Movie_Quality and #hindi (for dub)</b>""")
             await asyncio.sleep(10)
             await k.delete()
 
