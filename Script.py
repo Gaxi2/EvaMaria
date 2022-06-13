@@ -11,16 +11,16 @@ class script(object):
 
 ✯ 𝙵𝚛𝚒𝚎𝚗𝚍 𝙾𝚏: 𝕲𝖆𝖝𝖎2
 
-✯ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕:<a herf=https://t.me/find_hub><b>𝙵𝚒𝚗𝚍_𝙷𝚞𝚋</b></a>
+✯ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕: <a href=https://t.me/find_hub><b>𝙵𝚒𝚗𝚍_𝙷𝚞𝚋</b></a>
 
-✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜:<a herf=https://t.me/findhubupdates><b>𝚄𝚙𝚍𝚊𝚝𝚎𝚜</b></a>
+✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜: <a href=https://t.me/findhubupdates><b>𝚄𝚙𝚍𝚊𝚝𝚎𝚜</b></a>
 
-✯ 𝙶𝚛𝚘𝚞𝚙:<a herf=https://t.me/><b>𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙷𝚎𝚛𝚎</b></a>
+✯ 𝙶𝚛𝚘𝚞𝚙: <a href=https://t.me/><b>𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙷𝚎𝚛𝚎</b></a>
+
 
 𝚃𝙷𝙴𝚁𝙴 𝙸𝚂 𝙽𝙾𝚃𝙷𝙸𝙽𝙶 𝚃𝙾 𝙺𝙽𝙾𝚆 𝙼𝙾𝚁𝙴. (◠‿◕)
 
-<b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
