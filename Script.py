@@ -1,14 +1,23 @@
 class script(object):
-    START_TXT = """𝙷𝚎𝚕𝚕𝚘,{},
-𝚃𝚑𝚒𝚜 𝚒𝚜 <a href=https://t.me/{}>{}</a>, 𝙸 𝚊𝚖 𝙷𝚎𝚛𝚎 𝚃𝚘 𝙿𝚛𝚘𝚟𝚒𝚍𝚎 𝚈𝚘𝚞 𝚃𝚑𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝𝚎𝚍 🗂️𝙵𝚒𝚕𝚎𝚜 𝙵𝚛𝚘𝚖 𝙵𝚒𝚗𝚍𝙷𝚞𝚋."""
+    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {},
+
+𝚃𝙷𝙸𝚂 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙰𝙼 𝙷𝙴𝚁𝙴 𝚃𝙾 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝚈𝙾𝚄 𝚃𝙷𝙴 𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 📁𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙵𝙸𝙽𝙳𝙷𝚄𝙱."""
+
     HELP_TXT = """𝙷𝙴𝚈 {}
+
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+
 ✯ 𝙵𝚛𝚒𝚎𝚗𝚍 𝙾𝚏: 𝕲𝖆𝖝𝖎2
-✯ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕:<a herf=https://t.me/find_hub> **𝙵𝚒𝚗𝚍_𝙷𝚞𝚋** </a>
-✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜:<a herf=https://t.me/findhubupdates> **𝙵𝚒𝚗𝚍𝙷𝚞𝚋 𝚄𝚙𝚍𝚊𝚝𝚎𝚜** </a>
-✯ 𝙶𝚛𝚘𝚞𝚙:<a herf=https://t.me/> **𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙷𝚎𝚛𝚎** </a>
-There is nothing to know more. (◠‿◕)
+
+✯ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕:<a herf=https://t.me/find_hub><b>𝙵𝚒𝚗𝚍_𝙷𝚞𝚋</b></a>
+
+✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜:<a herf=https://t.me/findhubupdates><b>𝚄𝚙𝚍𝚊𝚝𝚎𝚜</b></a>
+
+✯ 𝙶𝚛𝚘𝚞𝚙:<a herf=https://t.me/><b>𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙷𝚎𝚛𝚎</b></a>
+
+𝚃𝙷𝙴𝚁𝙴 𝙸𝚂 𝙽𝙾𝚃𝙷𝙸𝙽𝙶 𝚃𝙾 𝙺𝙽𝙾𝚆 𝙼𝙾𝚁𝙴. (◠‿◕)
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
