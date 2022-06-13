@@ -404,9 +404,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⚡Find Hub⚡', url='http://t.me/find_hub')
+            InlineKeyboardButton('⚡Find Hub', url='http://t.me/find_hub')
         ], [
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔍 Search', url='https://t.me/f1ndhub')
            
         ], [
            
@@ -438,10 +438,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🔰1.0🔰', url='https://t.me/hub004bot'),
-            InlineKeyboardButton('⚡Find Hub⚡', url='https://t.me/find_hub')
+            InlineKeyboardButton('🔰1.0', url='https://t.me/hub004bot'),
+            InlineKeyboardButton('⚡Find Hub', url='https://t.me/find_hub')
         ], [
-            InlineKeyboardButton('🔱Admin🔱', url= 'https://t.me/finder004'),
+            InlineKeyboardButton('🔱Group', url= 'https://t.me/f1ndhub'),
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
