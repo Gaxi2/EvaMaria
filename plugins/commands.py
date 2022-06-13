@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/findhubupdates')
+                InlineKeyboardButton('⚡Find Hub', url='https://t.me/find_hub')
             ],
             [
-                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('🔥1.0', url='https://t.me/hub004bot'),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -44,7 +44,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🔰FindHub🔰', url='https://t.me/find_hub'),
      
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔍 Search', url='https://t.me/f1ndhub')
             
             ],[
            
@@ -90,7 +90,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🔰Find Hub🔰', url='https://t.me/find_hub'),
         
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔍 Search', url='https://t.me/f1ndhub')
            
             ],[
            
