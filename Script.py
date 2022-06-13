@@ -1,18 +1,14 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 Cannot 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 Suffer 😍"""
+    START_TXT = """𝙷𝚎𝚕𝚕𝚘,{},
+𝚃𝚑𝚒𝚜 𝚒𝚜 <a href=https://t.me/{}>{}</a>, 𝙸 𝚊𝚖 𝙷𝚎𝚛𝚎 𝚃𝚘 𝙿𝚛𝚘𝚟𝚒𝚍𝚎 𝚈𝚘𝚞 𝚃𝚑𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝𝚎𝚍 🗂️𝙵𝚒𝚕𝚎𝚜 𝙵𝚛𝚘𝚖 𝙵𝚒𝚗𝚍𝙷𝚞𝚋."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: Bebel
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: English
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼ango
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 Meha"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+✯ 𝙵𝚛𝚒𝚎𝚗𝚍 𝙾𝚏: 𝕲𝖆𝖝𝖎2
+✯ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕:<a herf=https://t.me/find_hub> **𝙵𝚒𝚗𝚍_𝙷𝚞𝚋** </a>
+✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜:<a herf=https://t.me/findhubupdates> **𝙵𝚒𝚗𝚍𝙷𝚞𝚋 𝚄𝚙𝚍𝚊𝚝𝚎𝚜** </a>
+✯ 𝙶𝚛𝚘𝚞𝚙:<a herf=https://t.me/> **𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙷𝚎𝚛𝚎** </a>
+There is nothing to know more. (◠‿◕)
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
