@@ -144,7 +144,7 @@ Movie Name
 Movie Year
 Movie Quality 
 And #hindi</b> (for dub)""")
-            await asyncio.sleep(10)
+            await asyncio.sleep(25)
             await k.delete()
 
 
